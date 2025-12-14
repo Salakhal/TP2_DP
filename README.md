@@ -35,3 +35,19 @@ Les contraintes d'intégrité sont le mécanisme fondamental pour garantir l'**e
     * **`ck_date_emprunt CHECK`** : Empêche une **erreur métier** simple mais fréquente où la date de retour (`date_fin`) serait antérieure à la date de début (`date_debut`), assurant la validité temporelle du prêt.
 
 En intégrant ces règles directement dans le SGBD, on assure la **robustesse et la cohérence** du modèle, indépendamment de l'application cliente.
+
+
+## 👤 Auteur
+
+* **École Normale Supérieure de Marrakech**
+  
+* **Réalisé par :** SALMA LAKHAL
+  
+* **Filière  :** CLE_INFO_S5
+  
+* **Date :**  14/12/2025
+  
+* **Encadré par :** Pr. Mohamed LACHGAR
+
+* **Module :** Bases de données
+  
